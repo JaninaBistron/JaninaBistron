@@ -2,9 +2,11 @@
 
 **I'm interested in:**
 - 📊 Data Science
-- 🕸️ Web Technologies
 - 🤖 AI
 - 🧮 EdTech
+- 🕸️ Web Technologies
 - 📱 UX Research
+and
+- 📸 Photography
 - 🌎 Geosciences
 
