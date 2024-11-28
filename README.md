@@ -5,7 +5,7 @@
 - 🤖 AI
 - 🧮 EdTech
 - 🕸️ Web Technologies
-- 📱 UX Research
+- 📱 UX
 
 and
 - 📸 Photography
