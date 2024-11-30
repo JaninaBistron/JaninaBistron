@@ -7,7 +7,3 @@
 - 🕸️ Web Technologies
 - 📱 UX
 
-and
-- 📸 Photography
-- 🌎 Geosciences
-
