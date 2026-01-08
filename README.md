@@ -2,8 +2,6 @@
 
 **I'm interested in:**
 
-🤖 EdTech
-
-🧮 Learning Analytics
-
-🎲 Educational Games 
+- 🤖 EdTech
+- 🧮 Learning Analytics
+- 🎲 Educational Games 
